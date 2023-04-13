@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: project-a/dev/backend.tfvars
+  checksum: ca5460f0d463579996742e029b590b0333f98d1182493b8b7d6626a154d1a2ca
+version: ""
