@@ -1,5 +1,5 @@
 plan:
-	terraform init
+	terraform init -backend-config=dev/backend.tfvars
 	terraform plan -var-file dev/vpc.tf
 
 apply:
